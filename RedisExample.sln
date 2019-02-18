@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RedisExample", "RedisExample.csproj", "{A5F11BB3-AAA9-4BA4-A816-6EC0DB1C073E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureTablesExample", "..\AzureTablesExample\AzureTablesExample.csproj", "{4D8FB0CD-FFC8-4E6A-9598-85D771CC0A59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A5F11BB3-AAA9-4BA4-A816-6EC0DB1C073E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5F11BB3-AAA9-4BA4-A816-6EC0DB1C073E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5F11BB3-AAA9-4BA4-A816-6EC0DB1C073E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D8FB0CD-FFC8-4E6A-9598-85D771CC0A59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D8FB0CD-FFC8-4E6A-9598-85D771CC0A59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D8FB0CD-FFC8-4E6A-9598-85D771CC0A59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D8FB0CD-FFC8-4E6A-9598-85D771CC0A59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
